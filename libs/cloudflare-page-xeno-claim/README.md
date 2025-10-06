@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+<!-- Auto-update: 2025-10-06T16:15:09.491655 -->
